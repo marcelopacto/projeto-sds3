@@ -4,85 +4,47 @@ const DataTable = () => {
     <table className="table table-striped table-sm">
         <thead>
             <tr>
-                <th>Data</th>
-                <th>Vendedor</th>
-                <th>Clientes visitados</th>
-                <th>Negócios fechados</th>
-                <th>Valor</th>
+                <th>Loja</th>
+                <th>Qtde Vendas</th>
+                <th>Venda Bruta</th>
+                <th>Descontos</th>
+                <th>Venda Líquida</th>
+                <th>Ticket Médio</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
+                <td>Easy Alpha</td>
+                <td>129</td>
+                <td>144.032,54</td>
+                <td>  6.900,15</td>
+                <td>137.132,39</td>
+                <td>  1.063,04</td>
             </tr>
             <tr>
-                <td>22/04/2021</td>
-                <td>Jhonie Walk</td>
-                <td>34</td>
-                <td>90</td>
-                <td>15017.00</td>
+                <td>Easy Primavera</td>
+                <td> 40</td>
+                <td>43.027,34</td>
+                <td> 1.230,00</td>
+                <td>41.797,34</td>
+                <td> 1.044,93</td>
             </tr>
             <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
+                <td>Easy Lucas</td>
+                <td> 66</td>
+                <td>333.424,80</td>
+                <td>233.983,97</td>
+                <td> 99.440,83</td>
+                <td>  1.506,68</td>
             </tr>
             <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
+                <td>Easy N.Mutum</td>
+                <td> 14</td>
+                <td>66.420,00</td>
+                <td>41.026,17</td>
+                <td>25.393,83</td>
+                <td> 1.813,85</td>
             </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-            <tr>
-                <td>22/04/2021</td>
-                <td>Barry Allen</td>
-                <td>34</td>
-                <td>25</td>
-                <td>15017.00</td>
-            </tr>
-
         </tbody>
     </table>
 </div>
