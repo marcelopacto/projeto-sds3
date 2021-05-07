@@ -13,7 +13,7 @@ function App() {
 
        <div className="row px-3">
          <div className="col-sm-6">
-           <h5 className="text-center text-secondary"> Taxa de Sucesso (%)</h5>
+           <h5 className="text-center text-secondary"> ABRIL / 2021</h5>
            <BarChart/>
          </div>
 
@@ -23,7 +23,7 @@ function App() {
          </div>
        </div>
 <div className="py-3">
-  <h2 className="text-primary">Vendas Concluídas no Período</h2>
+  <h2 className="text-primary">Performance</h2>
 </div>
 
        <DataTable/>

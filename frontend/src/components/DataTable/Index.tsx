@@ -45,6 +45,14 @@ const DataTable = () => {
                 <td>25.393,83</td>
                 <td> 1.813,85</td>
             </tr>
+            <tr>
+                <td><h5>T O T A L</h5></td>
+                <td><h5>249</h5></td>
+                <td><h5>586.904,68</h5></td>
+                <td><h5>283.140,29</h5></td>
+                <td><h5>183.764,39</h5></td>
+                <td><h5>  1.357,13</h5></td>
+            </tr>
         </tbody>
     </table>
 </div>
