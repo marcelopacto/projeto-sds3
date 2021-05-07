@@ -16,8 +16,8 @@ const BarChart = () => {
         },
         series: [
             {
-                name: "Vendas em R$",
-                data: [137132.39, 41797.34, 99440.83, 25393.83]                   
+                name: "Vendas em mil R$",
+                data: [137.132, 41.797, 99.441, 25.394]                   
             }
         ]
     };

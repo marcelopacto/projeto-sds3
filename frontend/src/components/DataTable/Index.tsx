@@ -20,6 +20,7 @@ const DataTable = () => {
                 <td>  6.900,15</td>
                 <td>137.132,39</td>
                 <td>  1.063,04</td>
+                <td>Easy Alpha</td>
             </tr>
             <tr>
                 <td>Easy Primavera</td>
@@ -28,6 +29,7 @@ const DataTable = () => {
                 <td> 1.230,00</td>
                 <td>41.797,34</td>
                 <td> 1.044,93</td>
+                <td>Easy Primavera</td>
             </tr>
             <tr>
                 <td>Easy Lucas</td>
@@ -36,6 +38,7 @@ const DataTable = () => {
                 <td>233.983,97</td>
                 <td> 99.440,83</td>
                 <td>  1.506,68</td>
+                <td>Easy Lucas</td>
             </tr>
             <tr>
                 <td>Easy N.Mutum</td>
@@ -44,6 +47,7 @@ const DataTable = () => {
                 <td>41.026,17</td>
                 <td>25.393,83</td>
                 <td> 1.813,85</td>
+                <td>Easy N.Mutum</td>
             </tr>
             <tr>
                 <td><h5>T O T A L</h5></td>
@@ -52,6 +56,7 @@ const DataTable = () => {
                 <td><h5>283.140,29</h5></td>
                 <td><h5>183.764,39</h5></td>
                 <td><h5>  1.357,13</h5></td>
+                <td><h5>T O T A L</h5></td>
             </tr>
         </tbody>
     </table>
